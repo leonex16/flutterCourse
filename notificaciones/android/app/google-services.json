@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "310040072928",
+    "project_id": "push-notifications-flutt-2e1ac",
+    "storage_bucket": "push-notifications-flutt-2e1ac.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:310040072928:android:62df9290713feeef517685",
+        "android_client_info": {
+          "package_name": "com.leonelespinoza.notificaciones"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "310040072928-6dn1dc268s54m4v3ro6ead96ai6576p8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.leonelespinoza.notificaciones",
+            "certificate_hash": "46775953e6be7e70bc896d49f12505a394188d5b"
+          }
+        },
+        {
+          "client_id": "310040072928-3hfs0lt7e7od9j4kbvcsni53s92e7l95.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDT2oSt7f-SSUCnwFEJQNtu03qbznbAolY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "310040072928-3hfs0lt7e7od9j4kbvcsni53s92e7l95.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
